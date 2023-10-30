@@ -1,7 +1,7 @@
 {
-  "name": "@pathcheck/dcc-sdk",
-  "version": "0.0.27",
-  "description": "Verifiable QR SDK for EU Digital Covid Certificates",
+  "name": "@censcl/dcc-sdk",
+  "version": "0.0.6",
+  "description": "Verifiable QR SDK for EU Digital Covid Certificates + DDVC",
   "private": false,
   "main": "lib/index.js",
   "module": "lib/main.js",
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Path-Check/dcc-sdk.js"
+    "url": "https://github.com/cens-chile/dcc-sdk.js"
   },
   "bugs": {
-    "url": "https://github.com/Path-Check/dcc-sdk.js/issues"
+    "url": "https://github.com/cens-chile/dcc-sdk.js/issues"
   },
   "files": [
     "lib/**/*.js",
     "scripts/**/*.js"
   ],
-  "author": "Vitor Pamplona",
+  "author": "Alejandro Medina",
   "license": "GPL-3.0-only",
   "dependencies": {
     "@fidm/asn1": "^1.0.4",
