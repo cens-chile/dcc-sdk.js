@@ -122,3 +122,8 @@ npm install
 ```sh
 npm test
 ```
+
+# DVC  Operations
+
+* makeCWTDVC(TEST_PAYLOAD, null, "XCL");
+* parseCWTDVC(cwtPayload)
