@@ -1,7 +1,7 @@
 {
   "name": "@censcl/dcc-sdk",
-  "version": "0.0.6",
-  "description": "Verifiable QR SDK for EU Digital Covid Certificates + DDVC",
+  "version": "0.0.7",
+  "description": "Verifiable QR SDK for EU Digital Covid Certificates + DDVC + DVC",
   "private": false,
   "main": "lib/index.js",
   "module": "lib/main.js",
